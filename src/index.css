@@ -4,6 +4,9 @@
 * > :not(:last-child) {
 	margin-bottom: 0.5rem;
 }
+li {
+	cursor: pointer;
+}
 
 body {
 	margin: 0;
